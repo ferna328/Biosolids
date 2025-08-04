@@ -1,4 +1,4 @@
-######################## 1BreakPoints.R ########################################
+######################## 2LQrelationships.R ####################################
 # Research Paper - A Simple Framework for Attibution of Changes in             # 
 #                  Concentration-Load-Discharge Relationships and Estimating   #
 #                  the Longevity of Biosolids Legacy Phosphorus                #
@@ -1095,3 +1095,4 @@ save.image(
   file = 
     "C:/XXX/YYY/ZZZ/2LQResults.RData")
 ########################### END CODE ###########################################
+
